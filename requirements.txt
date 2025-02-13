@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+openai
+pydantic
+numpy
+opencv-python-headless
+Pillow
+requests
+beautifulsoup4
+markdown
+python-dotenv
+gitpython
+speechrecognition
+duckdb
+pytesseract
+glob2
+
